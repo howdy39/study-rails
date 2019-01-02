@@ -25,3 +25,12 @@ brew services start postgresql
 ```
 brew services stop postgresql
 ```
+
+## DB
+### DB作成
+※config.dabase.yml をみている
+
+```
+bin/rails db:create
+```
+
