@@ -13,6 +13,14 @@ bin/rails s
 bundle exec rails s
 ```
 
+### 雛形を作成
+
+```
+bin/rails generate scaffold user name:string address:string age:integer
+bin/rails db:migrate
+```
+
+
 ## PostgreSQL
 ### 起動
 
