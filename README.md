@@ -13,6 +13,12 @@ bin/rails s
 bundle exec rails s
 ```
 
+### console 起動
+
+```
+bin/rails c
+```
+
 ### 雛形を作成
 
 ```
