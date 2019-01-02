@@ -27,6 +27,16 @@ bin/rails db:migrate
 ```
 
 
+### ルーティング
+config/routes.rb
+
+#### ルーティングを表示
+
+```
+bin/rails routes
+```
+
+
 ## PostgreSQL
 ### 起動
 
