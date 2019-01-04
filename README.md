@@ -1,4 +1,6 @@
 # study-rails
+[現場で使える Ruby on Rails 5速習実践ガイド](https://book.mynavi.jp/supportsite/detail/9784839962227.html)
+
 
 ## Rails
 ### 起動
