@@ -28,6 +28,12 @@ bin/rails generate scaffold user name:string address:string age:integer
 bin/rails db:migrate
 ```
 
+#### 別環境へのマイグレーション方法
+
+```
+bin/rails db:migrate RAILS_ENV=production
+```
+
 
 ### ルーティング
 config/routes.rb
